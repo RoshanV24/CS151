@@ -1,0 +1,12 @@
+Your name:Roshan Virdi
+Your student ID: 012148708
+Your major: CS
+Your preferred email address: roshanvirdi11@gmail.com
+Check one: [ x] Undergraduate, [ ] Graduate, [ ] Open university 
+Repeating the class? [ ] Yes, [x ] No
+Place and semester where you took a programming course in Java: SJSU fall 2017
+Course number and grade received: CS46a:A 
+Place and semester where you took a course in data structures: SJSU spring 2018 
+Course number and grade received: CS46: B+
+Time it took you to answer the two questions below: 50min
+Did you ask anyone for help? [ ] Yes, [ x] No
